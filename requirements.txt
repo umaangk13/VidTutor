@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+yt-dlp
+requests
+python-dotenv
+audio-recorder-streamlit
+openai

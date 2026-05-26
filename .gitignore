@@ -1,0 +1,22 @@
+# Streamlit and Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment Variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.wav
+*.mp3
+*.mp4
