@@ -2,7 +2,9 @@
 
 ![VidTutor Interface](screenshot.png)
 
-VidTutor is a modern, voice-first educational AI tutor that allows you to chat with any YouTube video using your voice. It leverages Sarvam AI's cutting-edge APIs for Speech-to-Text (STT), Text-to-Speech (TTS), and OpenAI-compatible Chat for grounded, conversational responses.
+VidTutor is a modern, voice-first educational AI tutor built as an **official developer reference implementation** for Sarvam's EdTech clients. 
+
+In a Customer Success (CS) role, showing prospects exactly "what is possible" is a superpower. This app demonstrates to external developers how to cleanly handle audio chunking, streaming text input, and calling `bulbul:v3` for high-speed, sub-500ms voice responses using Sarvam's REST APIs.
 
 ## ✨ Features
 
@@ -46,3 +48,9 @@ VidTutor is a modern, voice-first educational AI tutor that allows you to chat w
 2. Choose your preferred transcript extraction method (Method A or B).
 3. Use the **microphone icon** to speak your question or type it in the chat box.
 4. Listen to your tutor's dynamic voice response!
+
+## 📈 Customer Success: Proactive Token Health Monitoring
+
+For a Customer Success Manager (CSM), tracking the "health" of an API integration like this is critical. If an EdTech client deploys VidTutor and their API token consumption suddenly plummets, it's a major churn indicator. 
+
+In such a scenario, a proactive CSM would jump into the Sarvam dashboard analytics to investigate whether students are abandoning the bot due to audio latency, transcript failures (like YouTube IP blocks), or API timeouts. By identifying the bottleneck quickly, the CS team can write custom helper scripts, recommend infrastructure changes, or guide the client's engineering team to unblock their pipeline before they churn.
