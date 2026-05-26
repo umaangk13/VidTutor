@@ -1,6 +1,7 @@
 # VidTutor - Sarvam Voice Tutor 🎓
 
-![VidTutor Interface](screenshot.png)
+![VidTutor Interface - Part 1](screenshot1.png)
+![VidTutor Interface - Part 2](screenshot2.png)
 
 VidTutor is a modern, voice-first educational AI tutor built as an **official developer reference implementation** for Sarvam's EdTech clients. 
 
